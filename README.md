@@ -10,7 +10,8 @@ I have strong skills in :
 - React Js, Redux Toolkit
 
 I enjoy meeting new people and hearing new perspectives, reack out if you have some interest or subject you want to discuss
- Thank You✨
+
+Thank You✨
  
  
 <!---
